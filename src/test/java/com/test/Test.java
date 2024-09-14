@@ -12,12 +12,23 @@ private void tc2() {
 	System.out.println(3);
 
 }
+private void selenium() {
+	// TODO Auto-generated method stub
+
+}
+private void python() {
+	// TODO Auto-generated method stub
+
+}
+private void Api() {
+
+	// TODO Auto-generated method stub
+
+}
 private void hp() {
 	// TODO Auto-generated method stub
 
 }
 private void acer() {
-	// TODO Auto-generated method stub
-
 }
 }
