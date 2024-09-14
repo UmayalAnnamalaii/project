@@ -12,4 +12,12 @@ private void tc2() {
 	System.out.println(3);
 
 }
+private void hp() {
+	// TODO Auto-generated method stub
+
+}
+private void acer() {
+	// TODO Auto-generated method stub
+
+}
 }
